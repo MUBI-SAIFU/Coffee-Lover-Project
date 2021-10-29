@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Condensed:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Stick+No+Bills&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Stick+No+Bills&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;500&family=Ephesis&family=Stick+No+Bills&display=swap');
+header{
+    color:black;
+    text-align: center;
+   
+}
+
+.icon{
+    /* background-color: rgb(105, 60, 23); */
+    width: 100%;
+    height: 70px;
+    color: rgb(2, 17, 9);
+    font-family: 'Ephesis', cursive;
+    font-size: x-large;
+}
+
+.top{
+    
+    width: 100%;
+    height:209px;
+    background-color: rgb(136, 131, 127);
+}
+img{
+    height: 206px;
+    width: 249px;
+    border: rgb(136, 131, 127);
+    justify-content: space-around;
+   
+}
+
+
+.syn{
+    text-align: center;
+    border:white solid 1px;
+    height: 100px;
+    width: 650px;
+    margin-left: 283px;
+    margin-top: -124px;
+}
+.origin{
+    width: 98%;
+    height:130px;
+    padding: 15px;
+    color:black;
+    text-align: justify;
+    
+    font-family:sans-serif;
+}
+h2{
+    font-family: sans-serif;
+    color: rgb(80, 17, 12);
+    
+}
+.parent{
+    border: white solid 1px;
+    border-radius: 8px;
+    height: 880px;
+    width: 100%;
+    background-color: burlywood;
+}
+
+.child{
+    height:170px;
+    width: 69%;
+    border: rgb(224, 215, 215) solid 1px;
+    border-radius: 20px;
+   padding-left: 10px;
+   float: left;
+}
+.famous1{
+    padding-left:905px;
+    margin-top: -147px;
+    padding-bottom: 10px;
+    width: 250px;
+    height: 80%;
+}
+.famous2{
+    padding-left:908px;
+    margin-top: -101px;
+    padding-bottom: 10px;
+    width: 250px;
+    height: 80%;
+}
+
+.box{
+    background-color: rgba(250, 148, 96, 0.582);
+    color: darkred;
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 80%;
+}
+
+.famous3{
+    padding-left:905px;
+    margin-top: -97px;
+    padding-bottom: 10px;
+    width: 250px;
+    height: 80%;
+}
+.content{
+    text-align: left;
+    
+}
+
+strong{
+    color:brown;
+    font-size: 15px;
+    text-align: center;
+}
+button{
+    background-color:rgb(68, 33, 5);
+    margin-left: 50%;
+    color: black;
+    width: 75px;
+    height: 23px;
+}
+table{
+    border:sienna solid 2px;
+    border-radius: 3px;
+    width: 95%;
+    margin: 10px;
+    margin-left: 15px;
+    padding-left: 10px;
+
+}
+td{
+    font-family: sans-serif;
+}
+th{
+   
+    font-family: sans-serif; 
+}
+
+.footer{
+    
+    color: black;
+    align-items: flex-end;
+    margin-left: 100px;
+    width: 80%;
+    height: 530px;
+}
+label{
+    padding-left: 10px;
+}
+input{
+    margin-left: 100px;
+    background-color:gray
+}
+textarea{
+    margin-left: 100px;
+    background-color:gray;
+}
